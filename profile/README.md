@@ -4,7 +4,7 @@
 🙋‍♀️ 
 **NPL is the UK's National Metrology Institute, developing and maintaining the national primary measurement standards**
 
-It is a Public Corporation owned by the [Department of Business, Energy and Industrial Strategy (BEIS)](https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy). It has a partnering agreement with BEIS and the University of Strathclyde and the University of Surrey. 
+It is a Public Corporation owned by the [Department of Business, Energy and Industrial Strategy (BEIS)](https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy) - GitHub [@decc](https://github.com/decc). It has a partnering agreement with BEIS and the University of Strathclyde and the University of Surrey. 
 
 NPL is part of the National Measurement System (NMS) which provides the UK with a national measurement infrastructure and delivers the UK Measurement Strategy on behalf of BEIS.
 
